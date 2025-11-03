@@ -1,0 +1,24 @@
+# Ignora cache de compilação Python
+__pycache__/
+*.py[cod]
+
+# Ignora arquivos de testes e relatórios do pytest
+*.log
+.cache/
+.pytest_cache/
+
+# Ignora ambientes virtuais
+venv/
+env/
+
+# Ignora arquivos de configuração do editor
+*.swp
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+
+# Ignora arquivos temporários
+*.tmp
+*.bak
+*.~ 
